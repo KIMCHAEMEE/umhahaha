@@ -6,11 +6,12 @@
 
 --------------------------------------
 >개발환경
-  >언어 : Java, Js
-  >DB : MySql
-  >Server : Tomcat
-  >IDE : eclipse, MySql Workbench
-  >기타 : 부트스트랩, Ajax
+  -언어 : Java, Js
+  
+  -DB : MySql
+  -Server : Tomcat
+  -IDE : eclipse, MySql Workbench
+  -기타 : 부트스트랩, Ajax
   
 ---------------------------------------
 
